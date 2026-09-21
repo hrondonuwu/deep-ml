@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:20:27.702Z",
+  "generated_at": "2026-09-21T06:40:22.268Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -126,6 +126,19 @@
       "last_pushed_at": "2026-09-21T06:20:27.127Z",
       "language": "python",
       "lines": 2
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-09-21T06:40:21.032Z",
+      "last_pushed_at": "2026-09-21T06:40:21.032Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
